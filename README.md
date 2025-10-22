@@ -1,19 +1,18 @@
-# Akbank_Gen_AI_chatbot
 # Akbank GenAI Bootcamp - RAG Tabanlı Yemek Tarifi Chatbot'u
 
-[cite_start]Bu proje, Akbank GenAI Bootcamp kapsamında geliştirilmiş [cite: 1][cite_start], RAG (Retrieval-Augmented Generation) temelli bir yemek tarifi chatbot'udur[cite: 2].
+Bu proje, Akbank GenAI Bootcamp kapsamında geliştirilmiş , RAG (Retrieval-Augmented Generation) temelli bir yemek tarifi chatbot'udur
 
-## [cite_start]Projenin Amacı [cite: 9]
+## Projenin Amacı 
 
 Projenin temel amacı, `turkish_food.csv` (veya benzer bir) veri setindeki yemek tariflerini kullanarak kullanıcıların doğal dilde sorduğu sorulara yanıt veren bir web tabanlı chatbot oluşturmaktır. Kullanıcılar, "Bana bir çorba tarifi ver" veya "İçinde et olan hangi yemekler var?" gibi sorular sorarak tarif veritabanını sorgulayabilir.
 
 ---
 
-## [cite_start]2. Veri Seti Hazırlama [cite: 16]
+## 2. Veri Seti Hazırlama
 
 Proje, `turkish_food.csv` (veya `create_database.py` betiğine `--csv` argümanı ile sağlanan herhangi bir) CSV dosyasını işleyerek bir vektör veritabanı oluşturur.
 
-[cite_start]**Veri Seti Bilgisi**: [cite: 10]
+**Veri Seti Bilgisi**: 
 Bu projede, `turkish_food.csv` adlı bir CSV dosyası kullanılmıştır. (Not: Kod, `indian_food.csv` gibi benzer yapıdaki diğer dosyalarla da çalışabilir).
 
 Veri setinin, `create_database.py` betiğinin beklentilerine göre şu sütunları içermesi gerekmektedir:
@@ -27,7 +26,7 @@ Veri setinin, `create_database.py` betiğinin beklentilerine göre şu sütunlar
 * `region`: (Bölge)
 * `ingredients`: Malzemeler (virgülle ayrılmış metin)
 
-[cite_start]**Hazırlanış Metodolojisi**: [cite: 17]
+**Hazırlanış Metodolojisi**: 
 Veri seti, `create_database.py` betiği kullanılarak RAG mimarisine uygun hale getirilmiştir. Bu betik sırasıyla şu işlemleri yapar:
 
 1.  **CSV Okuma:** Pandas kütüphanesi ile `--csv` yolundaki veri seti okunur.
@@ -44,23 +43,23 @@ Veri seti, `create_database.py` betiği kullanılarak RAG mimarisine uygun hale 
 
 ---
 
-## [cite_start]3. Kodunuzun Çalışma Kılavuzu [cite: 19]
+## 3. Kodunuzun Çalışma Kılavuzu 
 
 Bu proje bir Google Colab ortamında veya lokal bir makinede çalıştırılabilir.
 
-**1. [cite_start]Gereksinimler (`requirements.txt`)** [cite: 21]
+**1.Gereksinimler (`requirements.txt`)** 
 
 Aşağıdaki kütüphanelerin kurulu olması gerekmektedir:
 flask flask-ngrok google-generativeai langchain-google-genai langchain-community chromadb markdown python-dotenv pandas pyngrok google-api-python-client google-auth
-**2. Kurulum ve Çalıştırma (Lokal/Sunucu)** [cite: 21]
+**2. Kurulum ve Çalıştırma (Lokal/Sunucu)** 
 
-1.  **Sanal Ortam (Önerilir):** [cite: 21]
+1.  **Sanal Ortam (Önerilir):**
     ```bash
     python -m venv venv
     source venv/bin/activate  # (Windows: venv\Scripts\activate)
     ```
 
-2.  **Kütüphanelerin Kurulumu:** [cite: 21]
+2.  **Kütüphanelerin Kurulumu:**]
     ```bash
     pip install -r requirements.txt
     ```
@@ -77,15 +76,14 @@ flask flask-ngrok google-generativeai langchain-google-genai langchain-community
     python create_database.py --csv turkish_food.csv
     ```
 
-6.  **Sunucuyu Başlatma:** [cite: 21]
+6.  **Sunucuyu Başlatma:** 
     * `app.py` betiğini çalıştırarak Flask sunucusunu başlatın:
     ```bash
     python app.py
     ```
     * Sunucu varsayılan olarak `http://0.0.0.0:5000` adresinde çalışacaktır.
 
-**3. Çalıştırma (Google Colab)** [cite: 14]
-
+**3. Çalıştırma (Google Colab)**
 1.  **API Anahtarı:** Colab'in sol tarafındaki "Secrets" (Anahtar ikonu 🔑) bölümüne `GOOGLE_API_KEY`'inizi ekleyin.
 2.  **Veri Seti:** Colab'in sol tarafındaki "Files" bölümüne `turkish_food.csv` dosyasını yükleyin.
 3.  **Kod Hücreleri:** Proje notebook'undaki tüm `!pip install` hücrelerini çalıştırın.
@@ -96,20 +94,19 @@ flask flask-ngrok google-generativeai langchain-google-genai langchain-community
 
 ---
 
-## 4. Çözüm Mimariniz [cite: 22]
-
-**Çözülen Problem**: [cite: 23]
+## 4. Çözüm Mimariniz 
+**Çözülen Problem**: 
 Bu proje, yapılandırılmış bir CSV dosyasında (yemek tarifleri) bulunan bilgilere doğal dil ile erişim problemini çözmektedir. Kullanıcıların, SQL veya filtreleme mantığı bilmeden, "Bana 30 dakikadan az süren bir tarif bul" gibi karmaşık sorgular yapabilmesini sağlar.
 
-**Kullanılan Teknolojiler**: [cite: 23, 42, 43, 44]
+**Kullanılan Teknolojiler**:
 
-* **Generation (Üretken) Model:** `gemini-2.5-flash` (Google Gemini API) [cite: 42]
-* **Embedding Modeli:** `models/text-embedding-004` (Google) [cite: 43]
-* **Vektör Veritabanı (Vector DB):** `Chroma` (Lokal disk tabanlı) [cite: 43]
-* **RAG Pipeline Framework:** `LangChain` [cite: 44]
+* **Generation (Üretken) Model:** `gemini-2.5-flash` (Google Gemini API) 
+* **Embedding Modeli:** `models/text-embedding-004` (Google) 
+* **Vektör Veritabanı (Vector DB):** `Chroma` (Lokal disk tabanlı) 
+* **RAG Pipeline Framework:** `LangChain` 
 * **Web Framework & Arayüz:** `Flask` & `HTML/CSS/JavaScript`
 
-**RAG Mimarisi**: [cite: 23]
+**RAG Mimarisi**: 
 Mimari iki ana aşamadan oluşur:
 
 **1. İndeksleme (Offline) - `create_database.py`**
@@ -130,12 +127,12 @@ Bu aşama, kullanıcı her mesaj gönderdiğinde çalışır:
 
 ---
 
-## 5. Web Arayüzü & Product Kılavuzu [cite: 24]
+## 5. Web Arayüzü & Product Kılavuzu 
+**Deploy Linki**: 
+Proje Google Colab üzerinde çalıştırıldığında, proxy URL'si (örn: `https://5000-m-s-2dgccsbfqwft2-a.us-west4-1.prod.colab.dev/`) deploy linki olarak kullanılır. 
 
-**Deploy Linki**: [cite: 25]
-Proje Google Colab üzerinde çalıştırıldığında, proxy URL'si (örn: `https://5000-m-s-2dgccsbfqwft2-a.us-west4-1.prod.colab.dev/`) deploy linki olarak kullanılır. [cite: 13]
-
-**Çalışma Akışı ve Arayüz Testi**: [cite: 25]
+**Çalışma Akışı ve Arayüz Testi**: 
+Bunları destekleyen ekran görüntüleri image klasöründedir
 Web arayüzü (`index.html`), sol tarafta bir sohbet geçmişi listesi ve sağ tarafta ana sohbet penceresi bulunan klasik bir chatbot tasarımıdır.
 
 1.  **Ana Sayfa:** Kullanıcı linki açtığında, `index.html` yüklenir. Eğer mevcut bir sohbet yoksa, "Yemek Tarifi Chatbot" başlığı ve örnek bir soru (`Örn: “Air fryer’da patates var mı?”`) görünür.
@@ -150,7 +147,7 @@ Web arayüzü (`index.html`), sol tarafta bir sohbet geçmişi listesi ve sağ t
     * Gönderdiğiniz ilk mesaj, o sohbetin başlığı olarak (örn: "Bana bir çorba tarifi...") sol taraftaki listeye eklenir.
     * Geçmiş sohbet başlıklarına tıklayarak o konuşmaları geri yükleyebilirsiniz.
 
-**Projenin Kabiliyetlerini Test Etme Senaryoları**: [cite: 25]
+**Projenin Kabiliyetlerini Test Etme Senaryoları**:
 Botun kabiliyetlerini test etmek için aşağıdaki gibi sorular sorabilirsiniz:
 
 * **Genel Tarif İsteği:** "Bana bir ana yemek tarifi verebilir misin?"
