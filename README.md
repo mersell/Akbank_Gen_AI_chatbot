@@ -54,11 +54,7 @@ flask flask-ngrok google-generativeai langchain-google-genai langchain-community
 **2. Kurulum ve Çalıştırma (Lokal/Sunucu)** 
 
 1.  **Sanal Ortam (Önerilir):**
-    ```bash
-    python -m venv venv
-    source venv/bin/activate  # (Windows: venv\Scripts\activate)
-    ```
-
+   
 2.  **Kütüphanelerin Kurulumu:**]
     
 3.  **Google API Anahtarı:**
