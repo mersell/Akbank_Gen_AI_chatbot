@@ -60,10 +60,7 @@ flask flask-ngrok google-generativeai langchain-google-genai langchain-community
     ```
 
 2.  **Kütüphanelerin Kurulumu:**]
-    ```bash
-    pip install -r requirements.txt
-    ```
-
+    
 3.  **Google API Anahtarı:**
     * `GOOGLE_API_KEY` adında bir ortam değişkeni tanımlayın veya Colab kullanıyorsanız "Secrets" bölümüne ekleyin.
 
