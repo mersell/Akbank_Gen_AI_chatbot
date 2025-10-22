@@ -1,0 +1,257 @@
+name,ingredients,diet,prep_time,cook_time,flavor_profile,course,state,region
+Mantı,"flour, ground beef, onion, yogurt, butter",non vegetarian,12,13,spicy,main course,Niğde,İç Anadolu
+Etli Ekmek,"thin dough, ground meat, tomato, pepper, parsley",non vegetarian,22,41,spicy,main course,Karaman,İç Anadolu
+Tandır Kebap,"lamb, salt, pepper",non vegetarian,13,104,-1,main course,Eskişehir,İç Anadolu
+İmam Bayıldı,"eggplant, onion, tomato, olive oil, garlic",vegetarian,48,104,-1,main course,Bursa,Marmara
+Bursa İskender,"doner, pide bread, butter, tomato sauce, yogurt",non vegetarian,10,85,spicy,main course,Sakarya,Marmara
+Boyoz,"flour, oil, tahini, egg (optional), sesame",vegetarian,7,13,-1,snack,Kütahya,Ege
+Künefe,"kadayıf, unsalted cheese, butter, syrup, pistachio",vegetarian,18,39,sweet,dessert,Adana,Akdeniz
+Sütlaç,"milk, rice, sugar, rice flour, vanilla",vegetarian,43,13,sweet,dessert,Sakarya,Marmara
+Pide (Kıymalı),"flour, yeast, ground beef, tomato, pepper",non vegetarian,50,93,spicy,main course,Sinop,Karadeniz
+Pide (Kaşarlı),"flour, yeast, kaşar cheese, butter",vegetarian,19,67,-1,main course,Bolu,Karadeniz
+Dolma (Zeytinyağlı),"vine leaves, rice, onion, currants, pine nuts, olive oil",vegetarian,56,10,-1,main course,Denizli,Ege
+Karnıyarık,"eggplant, ground beef, onion, tomato, pepper",non vegetarian,49,64,spicy,main course,Edirne,Marmara
+Tantuni,"beef, lavash, onion, tomato, sumac",non vegetarian,22,29,spicy,main course,Burdur,Akdeniz
+Adana Kebap,"ground lamb, tail fat, chili, salt",non vegetarian,53,53,spicy,main course,Hatay,Akdeniz
+Biber Dolması,"bell pepper, rice, onion, tomato, olive oil",vegetarian,10,58,-1,main course,Adana,Akdeniz
+Antakya Tepsi Kebabı,"ground meat, onion, pepper paste, chili flakes, parsley",non vegetarian,27,118,spicy,main course,Adana,Akdeniz
+Tahini Piyaz,"beans, tahini, lemon, garlic, olive oil",vegetarian,43,43,-1,starter,Burdur,Akdeniz
+Bici Bici,"starch, sugar syrup, rose water, ice",vegetarian,51,68,sweet,dessert,Antalya,Akdeniz
+Cevizli Kabak Tatlısı,"pumpkin, sugar, walnuts, tahini",vegetarian,29,20,sweet,dessert,Adana,Akdeniz
+Şiş Köfte,"ground beef, onion, bread crumbs, spices",non vegetarian,58,90,spicy,main course,Isparta,Akdeniz
+Arabaşı Çorbası,"chicken, flour dough, chili, butter",non vegetarian,60,56,spicy,soup,Kırıkkale,İç Anadolu
+Bulgur Pilavı,"bulgur, tomato, pepper, butter",vegetarian,17,100,-1,main course,Kırıkkale,İç Anadolu
+Ankara Tava,"meat, orzo, butter, broth",non vegetarian,7,94,-1,main course,Konya,İç Anadolu
+Testi Kebabı,"meat, tomato, pepper, clay pot",non vegetarian,54,47,spicy,main course,Eskişehir,İç Anadolu
+Pişi,"flour, yeast, yogurt, oil, salt",vegetarian,59,39,-1,snack,Konya,İç Anadolu
+Hamsi Tava,"anchovy, corn flour, oil, salt",non vegetarian,29,45,-1,main course,Giresun,Karadeniz
+Kuymak/Muhlama,"cornmeal, butter, cheese",vegetarian,45,116,-1,main course,Tokat,Karadeniz
+Laz Böreği,"phyllo, custard, butter, syrup",vegetarian,15,57,sweet,dessert,Düzce,Karadeniz
+Mısır Ekmeği,"corn flour, water, salt, oil",vegetarian,33,95,-1,bread,Düzce,Karadeniz
+Kaygana,"egg, flour, green onions, parsley",vegetarian,49,97,-1,snack,Artvin,Karadeniz
+Cağ Kebabı,"lamb, tail fat, salt",non vegetarian,9,87,-1,main course,Bitlis,Doğu Anadolu
+Kete,"flour, butter, sugar, milk",vegetarian,30,78,-1,bread,Bitlis,Doğu Anadolu
+Helle Çorbası,"yogurt, flour, egg, mint",vegetarian,20,30,-1,soup,Iğdır,Doğu Anadolu
+Malatya Kayısılı Tatlı,"dried apricot, walnut, sugar, butter",vegetarian,29,44,sweet,dessert,Tunceli,Doğu Anadolu
+Keledoş,"meat, chickpeas, wheat, yogurt, herbs",non vegetarian,49,81,-1,main course,Bitlis,Doğu Anadolu
+Antep Baklavası,"phyllo, pistachio, butter, syrup",vegetarian,48,51,sweet,dessert,Mardin,Güneydoğu
+Lahmacun (Antep),"dough, ground meat, tomato, pepper, parsley",non vegetarian,19,115,spicy,main course,Gaziantep,Güneydoğu
+İçli Köfte,"bulgur, ground meat, onion, walnuts",non vegetarian,56,50,spicy,starter,Gaziantep,Güneydoğu
+Urfa Kebap,"ground lamb, chili, salt",non vegetarian,22,18,spicy,main course,Şırnak,Güneydoğu
+Çiğ Köfte (Etsiz),"bulgur, isot pepper, tomato paste, pomegranate molasses",vegetarian,41,101,spicy,starter,Mardin,Güneydoğu
+Şıllık Tatlısı,"thin crepe, walnut, syrup",vegetarian,18,93,sweet,dessert,Siirt,Güneydoğu
+Kavut,"roasted flour, butter, sugar, milk",vegetarian,30,92,sweet,dessert,Yalova,Marmara
+Ayvalık Tostu,"toast bread, sucuk, kaşar cheese, pickles, ketchup",non vegetarian,14,43,-1,snack,Yalova,Marmara
+Islak Hamburger,"ground beef, burger bun, garlic, tomato paste, butter",non vegetarian,20,105,spicy,snack,Edirne,Marmara
+Kazandibi,"milk, sugar, starch, butter, cinnamon",vegetarian,39,43,sweet,dessert,Sakarya,Marmara
+Tarhana Çorbası,"tarhana, water, butter, mint",vegetarian,42,61,-1,soup,Kütahya,Ege
+Keşkek,"wheat, chickpeas, meat or butter, broth",non vegetarian,19,27,-1,main course,Uşak,Ege
+Zeytinyağlı Enginar,"artichoke, olive oil, lemon, peas, carrots",vegetarian,10,106,-1,starter,Afyonkarahisar,Ege
+Ot Kavurması,"Aegean greens, olive oil, garlic, pepper, salt",vegetarian,60,24,-1,starter,İzmir,Ege
+Menemen,"tomato, pepper, egg, olive oil, salt",vegetarian,45,20,-1,main course,Muğla,Ege
+Gözleme (Peynirli),"dough, white cheese, parsley, butter",vegetarian,32,76,-1,snack,Niğde,İç Anadolu
+Gözleme (Patatesli),"dough, potato, onion, pepper",vegetarian,29,48,-1,snack,Konya,İç Anadolu
+Kuru Fasulye,"beans, onion, tomato paste, butter",vegetarian,38,32,-1,main course,Yalova,Marmara
+Pilav (Bulgur),"bulgur, butter, broth, salt",vegetarian,60,120,-1,main course,Kırşehir,İç Anadolu
+Pilav (Pirinç),"rice, butter, orzo, salt",vegetarian,48,92,-1,main course,İstanbul,Marmara
+Mercimek Çorbası,"red lentils, onion, carrot, butter",vegetarian,48,113,-1,soup,Bursa,Marmara
+Ezogelin Çorbası,"red lentils, bulgur, tomato paste, mint",vegetarian,53,34,spicy,soup,Adıyaman,Güneydoğu
+Yayla Çorbası,"yogurt, rice, mint, butter",vegetarian,12,37,-1,soup,Gümüşhane,Karadeniz
+Kuru Mantı (Sivas),"flour, egg, minced meat, butter, yogurt",non vegetarian,15,58,spicy,main course,Nevşehir,İç Anadolu
+Tokat Kebabı,"lamb, eggplant, pepper, tomato",non vegetarian,51,112,spicy,main course,Trabzon,Karadeniz
+Pazı Sarması,"chard leaves, rice, onion, olive oil",vegetarian,37,97,-1,main course,Artvin,Karadeniz
+Akçaabat Köfte,"ground beef, garlic, bread crumbs",non vegetarian,37,116,spicy,main course,Zonguldak,Karadeniz
+Hamsili Pilav,"anchovy, rice, currants, pine nuts",non vegetarian,60,80,-1,main course,Giresun,Karadeniz
+Kuru Cacık,"yogurt, cucumber, mint, garlic",vegetarian,58,81,-1,salad,Denizli,Ege
+Şakşuka,"eggplant, pepper, tomato, garlic",vegetarian,14,47,-1,starter,Manisa,Ege
+Çökertme Kebabı,"beef strips, potato, yogurt, butter, tomato sauce",non vegetarian,39,99,spicy,main course,Muğla,Ege
+Kokoreç,"lamb intestines, oregano, chili, bread",non vegetarian,5,76,spicy,snack,Sakarya,Marmara
+Beyran,"lamb broth, rice, garlic, chili",non vegetarian,36,2,spicy,soup,Siirt,Güneydoğu
+Söğüş (İzmir),"cold sliced head meat, tomato, onion",non vegetarian,28,112,-1,snack,Aydın,Ege
+Kuzu Tandır,"lamb, salt, thyme",non vegetarian,20,7,-1,main course,Denizli,Ege
+Bamya,"okra, tomato, onion, olive oil",vegetarian,41,10,-1,main course,Eskişehir,İç Anadolu
+Kumpir,"potato, butter, kaşar cheese, sausage, pickles",non vegetarian,51,62,-1,main course,Bursa,Marmara
+Midye Dolma,"mussels, rice, onion, pine nuts, currants",non vegetarian,53,68,spicy,snack,Bursa,Marmara
+Simit,"flour, yeast, molasses, sesame, salt",vegetarian,13,84,-1,snack,Edirne,Marmara
+Ayva Tatlısı,"quince, sugar, cloves, kaymak",vegetarian,40,21,sweet,dessert,Yalova,Marmara
+Revani,"semolina, sugar, syrup, lemon zest",vegetarian,38,111,sweet,dessert,Sivas,İç Anadolu
+Aşure,"wheat, chickpeas, beans, dried fruits, sugar",vegetarian,18,118,sweet,dessert,Tekirdağ,Marmara
+Höşmerim,"unsalted cheese, semolina, sugar, butter",vegetarian,53,93,sweet,dessert,Sakarya,Marmara
+Pekmezli Helva,"tahini, pekmez, flour, butter",vegetarian,17,91,sweet,dessert,Karaman,İç Anadolu
+Zerde,"rice, saffron, sugar, raisins",vegetarian,30,85,sweet,dessert,Balıkesir,Marmara
+Katmer (Antep),"phyllo, pistachio, kaymak, sugar",vegetarian,33,115,sweet,dessert,Siirt,Güneydoğu
+Kilis Tava,"ground meat, pepper, tomato",non vegetarian,33,15,spicy,main course,Adıyaman,Güneydoğu
+Bostana Salatası,"tomato, cucumber, onion, isot, pomegranate molasses",vegetarian,19,8,sour,salad,Mardin,Güneydoğu
+Mahluta Çorbası,"red lentil, garlic, lemon, mint",vegetarian,6,75,-1,soup,Siirt,Güneydoğu
+Mıhlama (Rize),"cornmeal, butter, cheese",vegetarian,42,28,-1,main course,Bartın,Karadeniz
+Kuymak (Trabzon),"cornmeal, butter, cheese",vegetarian,9,90,-1,main course,Trabzon,Karadeniz
+Peruhi (Erzurum),"flour, egg, yogurt, butter",vegetarian,8,29,-1,main course,Bitlis,Doğu Anadolu
+Ciğer Tava (Edirne),"liver, flour, oil, salt",non vegetarian,7,110,spicy,main course,Bursa,Marmara
+Paça Çorbası,"trotter, garlic, vinegar",non vegetarian,9,65,-1,soup,Çanakkale,Marmara
+İşkembe Çorbası,"tripe, garlic, vinegar",non vegetarian,22,85,-1,soup,Kocaeli,Marmara
+Kelle Paça Çorbası,"head meat, garlic, vinegar",non vegetarian,18,69,-1,soup,Kilis,Güneydoğu
+Kuzu Kapama,"lamb, peas, dill, butter",non vegetarian,51,119,-1,main course,Edirne,Marmara
+Karnabahar Musakka,"cauliflower, tomato, onion, olive oil",vegetarian,20,100,-1,main course,Yalova,Marmara
+Zeytinyağlı Fasulye,"green beans, tomato, onion, olive oil",vegetarian,56,52,-1,main course,Afyonkarahisar,Ege
+Fava,"broad beans, olive oil, dill, lemon",vegetarian,11,12,-1,starter,Manisa,Ege
+Cacık,"yogurt, cucumber, garlic, mint",vegetarian,27,54,-1,starter,Tekirdağ,Marmara
+Kuru Fasulye (odun fırın),"beans, onion, tomato paste, butter",vegetarian,45,45,spicy,main course,Karaman,İç Anadolu
+Islak Hamburger (sarımsaklı),"ground beef, burger bun, garlic, tomato paste, butter",non vegetarian,29,99,sweet,starter,Şanlıurfa,Güneydoğu
+Pilav (Pirinç) (zeytinyağlı),"rice, butter, orzo, salt",vegetarian,57,107,sweet,dessert,Denizli,Ege
+Bamya (bol sebzeli),"okra, tomato, onion, olive oil",vegetarian,43,5,spicy,dessert,İstanbul,Marmara
+Kuru Fasulye (sarımsaklı),"beans, onion, tomato paste, butter",vegetarian,38,34,bitter,main course,Aksaray,İç Anadolu
+Mantı (zeytinyağlı),"flour, ground beef, onion, yogurt, butter",non vegetarian,22,7,sour,bread,Sivas,İç Anadolu
+Pişi (odun fırın),"flour, yeast, yogurt, oil, salt",vegetarian,64,30,-1,main course,Hatay,Akdeniz
+Künefe (bol sebzeli),"kadayıf, unsalted cheese, butter, syrup, pistachio",vegetarian,14,45,-1,snack,Çorum,Karadeniz
+Dolma (Zeytinyağlı) (ev usulü),"vine leaves, rice, onion, currants, pine nuts, olive oil",vegetarian,58,12,-1,dessert,Diyarbakır,Güneydoğu
+Antakya Tepsi Kebabı (mevsimlik),"ground meat, onion, pepper paste, chili flakes, parsley",non vegetarian,24,121,-1,main course,Bartın,Karadeniz
+Mıhlama (Rize) (ızgara),"cornmeal, butter, cheese",vegetarian,47,25,sour,starter,Amasya,Karadeniz
+Malatya Kayısılı Tatlı (fırında),"dried apricot, walnut, sugar, butter",vegetarian,26,34,bitter,salad,Kayseri,İç Anadolu
+Kuru Mantı (Sivas) (ev usulü),"flour, egg, minced meat, butter, yogurt",non vegetarian,18,52,-1,starter,Giresun,Karadeniz
+Kazandibi (ızgara),"milk, sugar, starch, butter, cinnamon",vegetarian,48,50,sour,snack,Kocaeli,Marmara
+Kelle Paça Çorbası (bol sebzeli),"head meat, garlic, vinegar",non vegetarian,17,67,sour,dessert,Antalya,Akdeniz
+Biber Dolması (acı biberli),"bell pepper, rice, onion, tomato, olive oil",vegetarian,11,70,sour,soup,Sakarya,Marmara
+Islak Hamburger (bol sebzeli),"ground beef, burger bun, garlic, tomato paste, butter",non vegetarian,16,97,bitter,soup,Denizli,Ege
+Kilis Tava (odun fırın),"ground meat, pepper, tomato",non vegetarian,32,25,spicy,salad,Sivas,İç Anadolu
+Malatya Kayısılı Tatlı (bol sebzeli),"dried apricot, walnut, sugar, butter",vegetarian,27,36,bitter,main course,Afyonkarahisar,Ege
+Kilis Tava (odun fırın) (bol sebzeli),"ground meat, pepper, tomato",non vegetarian,31,28,spicy,salad,Kars,Doğu Anadolu
+Tahini Piyaz (ızgara),"beans, tahini, lemon, garlic, olive oil",vegetarian,44,54,spicy,salad,Balıkesir,Marmara
+Kete (ızgara),"flour, butter, sugar, milk",vegetarian,29,75,-1,bread,Erzincan,Doğu Anadolu
+Kelle Paça Çorbası (bol sebzeli) (tereyağlı),"head meat, garlic, vinegar",non vegetarian,22,82,spicy,snack,Muğla,Ege
+Kuru Fasulye (fırında),"beans, onion, tomato paste, butter",vegetarian,45,23,sweet,dessert,Mardin,Güneydoğu
+Kazandibi (ızgara) (sarımsaklı),"milk, sugar, starch, butter, cinnamon",vegetarian,52,65,bitter,salad,Eskişehir,İç Anadolu
+Biber Dolması (acı biberli) (odun fırın),"bell pepper, rice, onion, tomato, olive oil",vegetarian,16,68,sweet,bread,Manisa,Ege
+Kelle Paça Çorbası (bol sebzeli) (ızgara),"head meat, garlic, vinegar",non vegetarian,22,57,-1,bread,Balıkesir,Marmara
+Biber Dolması (mevsimlik),"bell pepper, rice, onion, tomato, olive oil",vegetarian,8,67,sour,main course,Mersin,Akdeniz
+Mercimek Çorbası (tereyağlı),"red lentils, onion, carrot, butter",vegetarian,55,121,-1,dessert,Burdur,Akdeniz
+Pişi (tereyağlı),"flour, yeast, yogurt, oil, salt",vegetarian,65,42,spicy,starter,Antalya,Akdeniz
+Pide (Kıymalı) (mevsimlik),"flour, yeast, ground beef, tomato, pepper",non vegetarian,54,99,sour,dessert,Malatya,Doğu Anadolu
+Çiğ Köfte (Etsiz) (ızgara),"bulgur, isot pepper, tomato paste, pomegranate molasses",vegetarian,40,97,bitter,soup,Elazığ,Doğu Anadolu
+Malatya Kayısılı Tatlı (fırında) (acı biberli),"dried apricot, walnut, sugar, butter",vegetarian,33,41,-1,soup,Elazığ,Doğu Anadolu
+Mantı (sarımsaklı),"flour, ground beef, onion, yogurt, butter",non vegetarian,21,17,bitter,salad,Isparta,Akdeniz
+Kilis Tava (odun fırın) (bol sebzeli),"ground meat, pepper, tomato",non vegetarian,29,24,bitter,snack,Ağrı,Doğu Anadolu
+Kuymak (Trabzon) (fırında),"cornmeal, butter, cheese",vegetarian,8,80,sweet,starter,Kocaeli,Marmara
+Karnıyarık (mevsimlik),"eggplant, ground beef, onion, tomato, pepper",non vegetarian,57,74,spicy,beverage,Afyonkarahisar,Ege
+Menemen (tereyağlı),"tomato, pepper, egg, olive oil, salt",vegetarian,47,14,bitter,bread,Iğdır,Doğu Anadolu
+Etli Ekmek (tereyağlı),"thin dough, ground meat, tomato, pepper, parsley",non vegetarian,31,32,sweet,snack,Şanlıurfa,Güneydoğu
+Kuru Cacık (zeytinyağlı),"yogurt, cucumber, mint, garlic",vegetarian,63,95,sweet,beverage,Şanlıurfa,Güneydoğu
+Kilis Tava (odun fırın) (tereyağlı),"ground meat, pepper, tomato",non vegetarian,32,38,-1,beverage,Amasya,Karadeniz
+Biber Dolması (acı biberli) (odun fırın) (sarımsaklı),"bell pepper, rice, onion, tomato, olive oil",vegetarian,18,66,sour,beverage,Sivas,İç Anadolu
+Islak Hamburger (bol sebzeli) (sarımsaklı),"ground beef, burger bun, garlic, tomato paste, butter",non vegetarian,21,104,sour,salad,Balıkesir,Marmara
+Arabaşı Çorbası (sarımsaklı),"chicken, flour dough, chili, butter",non vegetarian,61,48,bitter,snack,Muğla,Ege
+Mıhlama (Rize) (ızgara) (bol sebzeli),"cornmeal, butter, cheese",vegetarian,43,21,bitter,bread,Yozgat,İç Anadolu
+Malatya Kayısılı Tatlı (fırında) (odun fırın),"dried apricot, walnut, sugar, butter",vegetarian,36,24,-1,bread,Kırıkkale,İç Anadolu
+Kelle Paça Çorbası (tereyağlı),"head meat, garlic, vinegar",non vegetarian,28,66,-1,starter,Kahramanmaraş,Akdeniz
+Kuzu Tandır (odun fırın),"lamb, salt, thyme",non vegetarian,27,20,bitter,salad,Aksaray,İç Anadolu
+Ayvalık Tostu (acı biberli),"toast bread, sucuk, kaşar cheese, pickles, ketchup",non vegetarian,21,51,-1,main course,Kilis,Güneydoğu
+Ayvalık Tostu (acı biberli) (ev usulü),"toast bread, sucuk, kaşar cheese, pickles, ketchup",non vegetarian,30,46,bitter,snack,Erzurum,Doğu Anadolu
+Tantuni (ızgara),"beef, lavash, onion, tomato, sumac",non vegetarian,27,29,sweet,beverage,Kahramanmaraş,Akdeniz
+Islak Hamburger (sarımsaklı) (fırında),"ground beef, burger bun, garlic, tomato paste, butter",non vegetarian,24,112,spicy,beverage,Kahramanmaraş,Akdeniz
+Islak Hamburger (bol sebzeli) (sarımsaklı) (sarımsaklı),"ground beef, burger bun, garlic, tomato paste, butter",non vegetarian,16,101,spicy,main course,Çanakkale,Marmara
+Gözleme (Patatesli) (mevsimlik),"dough, potato, onion, pepper",vegetarian,28,53,sweet,starter,Gaziantep,Güneydoğu
+Kaygana (zeytinyağlı),"egg, flour, green onions, parsley",vegetarian,49,106,sour,salad,Sinop,Karadeniz
+Kaygana (fırında),"egg, flour, green onions, parsley",vegetarian,53,105,spicy,main course,Diyarbakır,Güneydoğu
+Kuru Fasulye (odun fırın) (sarımsaklı),"beans, onion, tomato paste, butter",vegetarian,43,57,spicy,starter,Karaman,İç Anadolu
+Höşmerim (mevsimlik),"unsalted cheese, semolina, sugar, butter",vegetarian,61,104,spicy,salad,Şanlıurfa,Güneydoğu
+Fava (ızgara),"broad beans, olive oil, dill, lemon",vegetarian,21,5,spicy,bread,Sakarya,Marmara
+Kelle Paça Çorbası (bol sebzeli) (acı biberli),"head meat, garlic, vinegar",non vegetarian,20,76,bitter,snack,Osmaniye,Akdeniz
+Biber Dolması (acı biberli) (odun fırın) (sarımsaklı) (zeytinyağlı),"bell pepper, rice, onion, tomato, olive oil",vegetarian,23,63,bitter,soup,Kilis,Güneydoğu
+Ankara Tava (sarımsaklı),"meat, orzo, butter, broth",non vegetarian,12,84,bitter,bread,Osmaniye,Akdeniz
+Pide (Kıymalı) (mevsimlik) (acı biberli),"flour, yeast, ground beef, tomato, pepper",non vegetarian,60,114,bitter,starter,Siirt,Güneydoğu
+Kokoreç (mevsimlik),"lamb intestines, oregano, chili, bread",non vegetarian,6,68,sour,main course,Isparta,Akdeniz
+Akçaabat Köfte (zeytinyağlı),"ground beef, garlic, bread crumbs",non vegetarian,47,126,-1,starter,Elazığ,Doğu Anadolu
+Pişi (tereyağlı) (ev usulü),"flour, yeast, yogurt, oil, salt",vegetarian,72,54,sour,starter,Ankara,İç Anadolu
+Hamsili Pilav (zeytinyağlı),"anchovy, rice, currants, pine nuts",non vegetarian,68,93,-1,salad,Burdur,Akdeniz
+Mıhlama (Rize) (ızgara) (bol sebzeli) (zeytinyağlı),"cornmeal, butter, cheese",vegetarian,46,18,sour,soup,Burdur,Akdeniz
+Cağ Kebabı (ızgara),"lamb, tail fat, salt",non vegetarian,10,83,spicy,snack,Ağrı,Doğu Anadolu
+Biber Dolması (mevsimlik) (ev usulü),"bell pepper, rice, onion, tomato, olive oil",vegetarian,10,68,sweet,soup,Isparta,Akdeniz
+Tarhana Çorbası (bol sebzeli),"tarhana, water, butter, mint",vegetarian,38,52,sweet,soup,Antalya,Akdeniz
+Malatya Kayısılı Tatlı (fırında) (odun fırın) (zeytinyağlı),"dried apricot, walnut, sugar, butter",vegetarian,40,29,spicy,main course,Mersin,Akdeniz
+Kelle Paça Çorbası (bol sebzeli) (ızgara) (acı biberli),"head meat, garlic, vinegar",non vegetarian,32,50,spicy,soup,Yozgat,İç Anadolu
+Tahini Piyaz (ev usulü),"beans, tahini, lemon, garlic, olive oil",vegetarian,42,37,-1,main course,Aksaray,İç Anadolu
+Ayvalık Tostu (acı biberli) (sarımsaklı),"toast bread, sucuk, kaşar cheese, pickles, ketchup",non vegetarian,23,65,spicy,bread,Adana,Akdeniz
+Menemen (tereyağlı) (zeytinyağlı),"tomato, pepper, egg, olive oil, salt",vegetarian,51,22,sour,bread,Aksaray,İç Anadolu
+Pide (Kıymalı) (mevsimlik) (acı biberli) (sarımsaklı),"flour, yeast, ground beef, tomato, pepper",non vegetarian,57,109,sweet,soup,Bursa,Marmara
+Akçaabat Köfte (acı biberli),"ground beef, garlic, bread crumbs",non vegetarian,46,128,spicy,bread,Aydın,Ege
+Kuru Fasulye (odun fırın) (sarımsaklı) (odun fırın),"beans, onion, tomato paste, butter",vegetarian,47,69,sweet,soup,Sivas,İç Anadolu
+Tahini Piyaz (ızgara) (fırında),"beans, tahini, lemon, garlic, olive oil",vegetarian,52,47,-1,starter,Kocaeli,Marmara
+Arabaşı Çorbası (sarımsaklı) (fırında),"chicken, flour dough, chili, butter",non vegetarian,57,43,sweet,dessert,Muğla,Ege
+Pekmezli Helva (zeytinyağlı),"tahini, pekmez, flour, butter",vegetarian,21,103,spicy,beverage,Bayburt,Karadeniz
+Künefe (bol sebzeli) (zeytinyağlı),"kadayıf, unsalted cheese, butter, syrup, pistachio",vegetarian,22,58,spicy,main course,Osmaniye,Akdeniz
+Bostana Salatası (odun fırın),"tomato, cucumber, onion, isot, pomegranate molasses",vegetarian,14,22,spicy,starter,Artvin,Karadeniz
+Pide (Kıymalı) (mevsimlik) (acı biberli) (sarımsaklı) (mevsimlik),"flour, yeast, ground beef, tomato, pepper",non vegetarian,67,115,spicy,snack,Batman,Güneydoğu
+Tarhana Çorbası (bol sebzeli) (acı biberli),"tarhana, water, butter, mint",vegetarian,48,44,-1,bread,Sivas,İç Anadolu
+Kazandibi (ızgara) (sarımsaklı) (ızgara),"milk, sugar, starch, butter, cinnamon",vegetarian,52,65,sour,dessert,Kahramanmaraş,Akdeniz
+Antakya Tepsi Kebabı (mevsimlik) (fırında),"ground meat, onion, pepper paste, chili flakes, parsley",non vegetarian,33,113,bitter,main course,Tunceli,Doğu Anadolu
+Katmer (Antep) (ev usulü),"phyllo, pistachio, kaymak, sugar",vegetarian,42,118,bitter,main course,Burdur,Akdeniz
+Adana Kebap (mevsimlik),"ground lamb, tail fat, chili, salt",non vegetarian,49,49,bitter,beverage,Uşak,Ege
+Söğüş (İzmir) (fırında),"cold sliced head meat, tomato, onion",non vegetarian,26,102,bitter,beverage,Samsun,Karadeniz
+Pişi (tereyağlı) (ev usulü) (acı biberli),"flour, yeast, yogurt, oil, salt",vegetarian,80,46,sour,main course,Bartın,Karadeniz
+Yayla Çorbası (zeytinyağlı),"yogurt, rice, mint, butter",vegetarian,22,49,spicy,snack,Şanlıurfa,Güneydoğu
+Ayva Tatlısı (tereyağlı),"quince, sugar, cloves, kaymak",vegetarian,42,25,bitter,beverage,Artvin,Karadeniz
+Malatya Kayısılı Tatlı (fırında) (odun fırın) (sarımsaklı),"dried apricot, walnut, sugar, butter",vegetarian,33,22,-1,snack,Kütahya,Ege
+Mıhlama (Rize) (ızgara) (odun fırın),"cornmeal, butter, cheese",vegetarian,57,19,sour,soup,Isparta,Akdeniz
+Malatya Kayısılı Tatlı (bol sebzeli) (ızgara),"dried apricot, walnut, sugar, butter",vegetarian,36,36,sour,bread,Çorum,Karadeniz
+Ot Kavurması (mevsimlik),"Aegean greens, olive oil, garlic, pepper, salt",vegetarian,68,15,bitter,starter,Ağrı,Doğu Anadolu
+Kilis Tava (tereyağlı),"ground meat, pepper, tomato",non vegetarian,43,6,bitter,snack,Tunceli,Doğu Anadolu
+Helle Çorbası (ev usulü),"yogurt, flour, egg, mint",vegetarian,29,20,bitter,dessert,Gümüşhane,Karadeniz
+Katmer (Antep) (ev usulü) (acı biberli),"phyllo, pistachio, kaymak, sugar",vegetarian,45,118,spicy,beverage,Kütahya,Ege
+Kokoreç (mevsimlik) (ev usulü),"lamb intestines, oregano, chili, bread",non vegetarian,11,78,sour,bread,Elazığ,Doğu Anadolu
+Antakya Tepsi Kebabı (mevsimlik) (fırında) (bol sebzeli),"ground meat, onion, pepper paste, chili flakes, parsley",non vegetarian,35,123,spicy,dessert,Kilis,Güneydoğu
+Tahini Piyaz (ızgara) (fırında) (ev usulü),"beans, tahini, lemon, garlic, olive oil",vegetarian,50,51,bitter,dessert,Hatay,Akdeniz
+Ayvalık Tostu (odun fırın),"toast bread, sucuk, kaşar cheese, pickles, ketchup",non vegetarian,10,42,spicy,salad,Van,Doğu Anadolu
+Kuzu Kapama (acı biberli),"lamb, peas, dill, butter",non vegetarian,51,114,sweet,bread,Kahramanmaraş,Akdeniz
+Kazandibi (mevsimlik),"milk, sugar, starch, butter, cinnamon",vegetarian,38,40,sweet,beverage,Tekirdağ,Marmara
+Kelle Paça Çorbası (bol sebzeli) (tereyağlı) (zeytinyağlı),"head meat, garlic, vinegar",non vegetarian,31,81,sour,main course,Van,Doğu Anadolu
+Akçaabat Köfte (acı biberli) (ev usulü),"ground beef, garlic, bread crumbs",non vegetarian,50,138,bitter,salad,Zonguldak,Karadeniz
+Kuru Mantı (Sivas) (ev usulü) (zeytinyağlı),"flour, egg, minced meat, butter, yogurt",non vegetarian,25,57,sour,starter,Van,Doğu Anadolu
+Laz Böreği (mevsimlik),"phyllo, custard, butter, syrup",vegetarian,19,47,sour,soup,Kütahya,Ege
+Kelle Paça Çorbası (bol sebzeli) (ızgara) (acı biberli) (odun fırın),"head meat, garlic, vinegar",non vegetarian,42,49,-1,main course,Sivas,İç Anadolu
+Antakya Tepsi Kebabı (mevsimlik) (fırında) (bol sebzeli) (mevsimlik),"ground meat, onion, pepper paste, chili flakes, parsley",non vegetarian,36,132,sour,starter,Mardin,Güneydoğu
+Şakşuka (acı biberli),"eggplant, pepper, tomato, garlic",vegetarian,18,62,spicy,main course,Ardahan,Doğu Anadolu
+Islak Hamburger (bol sebzeli) (acı biberli),"ground beef, burger bun, garlic, tomato paste, butter",non vegetarian,21,110,spicy,soup,Çanakkale,Marmara
+Mıhlama (Rize) (ızgara) (acı biberli),"cornmeal, butter, cheese",vegetarian,50,20,-1,salad,Manisa,Ege
+Çökertme Kebabı (fırında),"beef strips, potato, yogurt, butter, tomato sauce",non vegetarian,48,91,sour,dessert,Kilis,Güneydoğu
+Lahmacun (Antep) (tereyağlı),"dough, ground meat, tomato, pepper, parsley",non vegetarian,16,130,-1,salad,Mardin,Güneydoğu
+Mantı (zeytinyağlı) (bol sebzeli),"flour, ground beef, onion, yogurt, butter",non vegetarian,28,18,spicy,beverage,Balıkesir,Marmara
+Mıhlama (Rize) (ızgara) (odun fırın) (mevsimlik),"cornmeal, butter, cheese",vegetarian,55,30,bitter,salad,Van,Doğu Anadolu
+Tokat Kebabı (mevsimlik),"lamb, eggplant, pepper, tomato",non vegetarian,53,122,-1,salad,Ankara,İç Anadolu
+Tahini Piyaz (zeytinyağlı),"beans, tahini, lemon, garlic, olive oil",vegetarian,41,37,sour,bread,Hakkari,Doğu Anadolu
+Karnıyarık (zeytinyağlı),"eggplant, ground beef, onion, tomato, pepper",non vegetarian,51,71,spicy,dessert,Balıkesir,Marmara
+Keledoş (ızgara),"meat, chickpeas, wheat, yogurt, herbs",non vegetarian,48,84,-1,bread,Aksaray,İç Anadolu
+Malatya Kayısılı Tatlı (fırında) (odun fırın) (zeytinyağlı) (mevsimlik),"dried apricot, walnut, sugar, butter",vegetarian,36,41,bitter,soup,Yalova,Marmara
+Fava (zeytinyağlı),"broad beans, olive oil, dill, lemon",vegetarian,9,23,sweet,salad,Afyonkarahisar,Ege
+Fava (odun fırın),"broad beans, olive oil, dill, lemon",vegetarian,12,5,bitter,soup,Düzce,Karadeniz
+Tahini Piyaz (zeytinyağlı) (ev usulü),"beans, tahini, lemon, garlic, olive oil",vegetarian,37,52,sweet,main course,Kilis,Güneydoğu
+Kuymak (Trabzon) (mevsimlik),"cornmeal, butter, cheese",vegetarian,10,98,sweet,dessert,Muğla,Ege
+Mercimek Çorbası (ızgara),"red lentils, onion, carrot, butter",vegetarian,51,107,sweet,main course,Mardin,Güneydoğu
+Malatya Kayısılı Tatlı (acı biberli),"dried apricot, walnut, sugar, butter",vegetarian,28,34,spicy,main course,Artvin,Karadeniz
+Kuzu Kapama (mevsimlik),"lamb, peas, dill, butter",non vegetarian,51,117,sour,main course,Mardin,Güneydoğu
+Adana Kebap (bol sebzeli),"ground lamb, tail fat, chili, salt",non vegetarian,63,57,spicy,dessert,Kütahya,Ege
+Tahini Piyaz (ızgara) (fırında) (ev usulü) (zeytinyağlı),"beans, tahini, lemon, garlic, olive oil",vegetarian,46,64,-1,starter,Adana,Akdeniz
+Ayvalık Tostu (odun fırın) (fırında),"toast bread, sucuk, kaşar cheese, pickles, ketchup",non vegetarian,6,47,bitter,main course,Adıyaman,Güneydoğu
+Tokat Kebabı (mevsimlik) (ev usulü),"lamb, eggplant, pepper, tomato",non vegetarian,50,114,bitter,beverage,Nevşehir,İç Anadolu
+Bostana Salatası (ev usulü),"tomato, cucumber, onion, isot, pomegranate molasses",vegetarian,24,10,sweet,soup,Samsun,Karadeniz
+Kuru Fasulye (odun fırın) (sarımsaklı) (zeytinyağlı),"beans, onion, tomato paste, butter",vegetarian,41,72,-1,bread,Bayburt,Karadeniz
+Bostana Salatası (odun fırın) (sarımsaklı),"tomato, cucumber, onion, isot, pomegranate molasses",vegetarian,16,25,bitter,beverage,Sakarya,Marmara
+Peruhi (Erzurum) (tereyağlı),"flour, egg, yogurt, butter",vegetarian,13,32,bitter,dessert,Kilis,Güneydoğu
+Katmer (Antep) (ızgara),"phyllo, pistachio, kaymak, sugar",vegetarian,30,107,sweet,beverage,Van,Doğu Anadolu
+Çökertme Kebabı (fırında) (tereyağlı),"beef strips, potato, yogurt, butter, tomato sauce",non vegetarian,47,98,spicy,salad,Bursa,Marmara
+Antakya Tepsi Kebabı (ev usulü),"ground meat, onion, pepper paste, chili flakes, parsley",non vegetarian,35,131,bitter,salad,Gümüşhane,Karadeniz
+Adana Kebap (ızgara),"ground lamb, tail fat, chili, salt",non vegetarian,52,64,spicy,starter,Isparta,Akdeniz
+Biber Dolması (mevsimlik) (ızgara),"bell pepper, rice, onion, tomato, olive oil",vegetarian,6,81,-1,salad,Aydın,Ege
+Kumpir (tereyağlı),"potato, butter, kaşar cheese, sausage, pickles",non vegetarian,54,52,-1,main course,Bartın,Karadeniz
+Keşkek (ızgara),"wheat, chickpeas, meat or butter, broth",non vegetarian,19,21,sour,main course,Isparta,Akdeniz
+Ayvalık Tostu (acı biberli) (ev usulü),"toast bread, sucuk, kaşar cheese, pickles, ketchup",non vegetarian,18,64,sweet,main course,Elazığ,Doğu Anadolu
+Kuru Cacık (zeytinyağlı) (tereyağlı),"yogurt, cucumber, mint, garlic",vegetarian,63,96,bitter,salad,Kütahya,Ege
+Zerde (mevsimlik),"rice, saffron, sugar, raisins",vegetarian,26,79,-1,dessert,Malatya,Doğu Anadolu
+Şıllık Tatlısı (ev usulü),"thin crepe, walnut, syrup",vegetarian,26,98,sour,beverage,Gaziantep,Güneydoğu
+Kelle Paça Çorbası (bol sebzeli) (acı biberli) (fırında),"head meat, garlic, vinegar",non vegetarian,26,79,sweet,dessert,Nevşehir,İç Anadolu
+Mısır Ekmeği (bol sebzeli),"corn flour, water, salt, oil",vegetarian,35,97,sour,main course,Osmaniye,Akdeniz
+Höşmerim (mevsimlik) (sarımsaklı),"unsalted cheese, semolina, sugar, butter",vegetarian,60,118,sour,starter,İstanbul,Marmara
+Çökertme Kebabı (ev usulü),"beef strips, potato, yogurt, butter, tomato sauce",non vegetarian,47,94,spicy,beverage,Burdur,Akdeniz
+Malatya Kayısılı Tatlı (sarımsaklı),"dried apricot, walnut, sugar, butter",vegetarian,26,46,-1,salad,Kırşehir,İç Anadolu
+Malatya Kayısılı Tatlı (fırında) (odun fırın) (zeytinyağlı) (mevsimlik) (tereyağlı),"dried apricot, walnut, sugar, butter",vegetarian,33,41,spicy,beverage,Erzurum,Doğu Anadolu
+Islak Hamburger (sarımsaklı) (fırında) (tereyağlı),"ground beef, burger bun, garlic, tomato paste, butter",non vegetarian,22,114,bitter,soup,Kırıkkale,İç Anadolu
+Boyoz (mevsimlik),"flour, oil, tahini, egg (optional), sesame",vegetarian,5,16,bitter,salad,Mersin,Akdeniz
+Tokat Kebabı (mevsimlik) (tereyağlı),"lamb, eggplant, pepper, tomato",non vegetarian,50,124,-1,bread,Kocaeli,Marmara
