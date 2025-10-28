@@ -43,7 +43,7 @@ Veri seti, `create_database.py` betiği kullanılarak RAG mimarisine uygun hale 
 
 ---
 
-## 3. Kodunuzun Çalışma Kılavuzu 
+## 3. Kodun Çalışma Kılavuzu 
 
 Bu proje bir Google Colab ortamında veya lokal bir makinede çalıştırılabilir.
 
@@ -87,7 +87,7 @@ flask flask-ngrok google-generativeai langchain-google-genai langchain-community
 
 ---
 
-## 4. Çözüm Mimariniz 
+## 4. Çözüm Mimarisi 
 **Çözülen Problem**: 
 Bu proje, yapılandırılmış bir CSV dosyasında (yemek tarifleri) bulunan bilgilere doğal dil ile erişim problemini çözmektedir. Kullanıcıların, SQL veya filtreleme mantığı bilmeden, "Bana 30 dakikadan az süren bir tarif bul" gibi karmaşık sorgular yapabilmesini sağlar.
 
